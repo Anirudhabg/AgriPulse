@@ -1,0 +1,990 @@
+datetime,tempmax,tempmin,temp,humidity,description
+2/1/2022,32.88888889,23,27.27777778,70.9,Clear conditions throughout the day.
+2/2/2022,32,23,27.16666667,72.1,Clear conditions throughout the day.
+2/3/2022,31.11111111,23,26.61111111,72.4,Clear conditions throughout the day.
+2/4/2022,30.05555556,21,25.38888889,66.4,Partly cloudy throughout the day.
+2/5/2022,30,20,24.66666667,69.1,Clear conditions throughout the day.
+2/6/2022,30.05555556,20,25.33333333,70.4,Partly cloudy throughout the day.
+2/7/2022,31,22,25.94444444,68.6,Partly cloudy throughout the day.
+2/8/2022,31.11111111,22,26,70.7,Clear conditions throughout the day.
+2/9/2022,31,22.88888889,26.27777778,70.4,Partly cloudy throughout the day.
+2/10/2022,32,23,26.66666667,71.6,Partly cloudy throughout the day.
+2/11/2022,35.11111111,23,27.61111111,55,Clear conditions throughout the day.
+2/12/2022,33.05555556,21,26.83333333,61.6,Clear conditions throughout the day.
+2/13/2022,33,23,27.33333333,64.9,Clear conditions throughout the day.
+2/14/2022,32.88888889,23,27.27777778,71.8,Partly cloudy throughout the day.
+2/15/2022,32,24,27.33333333,72.2,Partly cloudy throughout the day.
+2/16/2022,31.11111111,23,26.94444444,72.3,Partly cloudy throughout the day.
+2/17/2022,32,23,27.05555556,67.4,Clear conditions throughout the day.
+2/18/2022,32,24,27.16666667,66.2,Partly cloudy throughout the day.
+2/19/2022,34,24,27.61111111,67.4,Clear conditions throughout the day.
+2/20/2022,32.11111111,23,27.27777778,73.6,Partly cloudy throughout the day.
+2/21/2022,33,24,27.38888889,71.1,Clear conditions throughout the day.
+2/22/2022,33,22,27.27777778,62.1,Clear conditions throughout the day.
+2/23/2022,34.88888889,23,27.77777778,62.4,Clear conditions throughout the day.
+2/24/2022,32.22222222,23,27.44444444,70.9,Partly cloudy throughout the day.
+2/25/2022,33.05555556,24,27.94444444,72.7,Clearing in the afternoon.
+2/26/2022,33,23,27.5,72.2,Clearing in the afternoon.
+2/27/2022,33.83333333,24,28.05555556,73.1,Clear conditions throughout the day.
+2/28/2022,32,23,27.83333333,72.1,Partly cloudy throughout the day.
+3/1/2022,32,24,27.94444444,73.3,Partly cloudy throughout the day.
+3/2/2022,35,24,28.27777778,65.2,Clear conditions throughout the day.
+3/3/2022,36,22,28.38888889,54.8,Clear conditions throughout the day.
+3/4/2022,36,21.88888889,28.11111111,51.7,Clear conditions throughout the day.
+3/5/2022,34.16666667,23,27.83333333,61.1,Clear conditions throughout the day.
+3/6/2022,34,23,27.94444444,69.5,Clear conditions throughout the day.
+3/7/2022,33.88888889,24,28.5,64.8,Clear conditions throughout the day.
+3/8/2022,33,24,28.44444444,68.7,Partly cloudy throughout the day.
+3/9/2022,33,25,28.61111111,71.2,Partly cloudy throughout the day.
+3/10/2022,33,25,28.5,75.2,Partly cloudy throughout the day.
+3/11/2022,34,25,28.88888889,75,Partly cloudy throughout the day.
+3/12/2022,33,25,28.77777778,75.3,Clear conditions throughout the day.
+3/13/2022,35,25,29.33333333,66.7,Clear conditions throughout the day.
+3/14/2022,35,24,29.05555556,67.8,Clear conditions throughout the day.
+3/15/2022,34,25,28.88888889,75.7,Partly cloudy throughout the day.
+3/16/2022,33.05555556,25,28.72222222,75.7,Partly cloudy throughout the day.
+3/17/2022,33,26,29.33333333,74.2,Partly cloudy throughout the day.
+3/18/2022,33.11111111,25,28.77777778,72.2,Partly cloudy throughout the day.
+3/19/2022,32.11111111,24,28,67.2,Partly cloudy throughout the day.
+3/20/2022,33,24,27.72222222,69.9,Partly cloudy throughout the day.
+3/21/2022,33,25,28.72222222,71.8,Partly cloudy throughout the day.
+3/22/2022,31,22,27.33333333,76.2,Partly cloudy throughout the day with early morning rain.
+3/23/2022,32.83333333,24.11111111,28.22222222,73.9,Partly cloudy throughout the day with late afternoon rain.
+3/24/2022,31.88888889,24,26.83333333,77.8,Partly cloudy throughout the day.
+3/25/2022,31.11111111,24,27.83333333,73.2,Partly cloudy throughout the day.
+3/26/2022,33,25,28.94444444,71,Partly cloudy throughout the day.
+3/27/2022,33.11111111,26,29.22222222,71.3,Partly cloudy throughout the day.
+3/28/2022,33,25,28.83333333,71.2,Partly cloudy throughout the day.
+3/29/2022,33,27,29.27777778,68.3,Partly cloudy throughout the day.
+3/30/2022,33.11111111,26,29.22222222,69.5,Partly cloudy throughout the day.
+3/31/2022,33.11111111,25,29.16666667,70.3,Partly cloudy throughout the day.
+4/1/2022,33,26,29.16666667,75.1,Partly cloudy throughout the day.
+4/2/2022,32.88888889,24,28.66666667,75.9,Partly cloudy throughout the day with early morning rain.
+4/3/2022,33,26,28.83333333,75.2,Partly cloudy throughout the day.
+4/4/2022,33.88888889,25,29.16666667,73.4,Partly cloudy throughout the day.
+4/5/2022,33.83333333,27,29.72222222,71.2,Partly cloudy throughout the day.
+4/6/2022,33,26,29.16666667,70.1,Partly cloudy throughout the day.
+4/7/2022,33,25,28.94444444,72.8,Partly cloudy throughout the day.
+4/8/2022,32.83333333,27,29.33333333,74.5,Partly cloudy throughout the day.
+4/9/2022,32.22222222,22,27.88888889,76.8,Partly cloudy throughout the day.
+4/10/2022,32.05555556,23,27.22222222,75.7,Partly cloudy throughout the day with morning rain.
+4/11/2022,33,24,28.5,71.6,Partly cloudy throughout the day.
+4/12/2022,32.05555556,27,29.55555556,78.2,Partly cloudy throughout the day.
+4/13/2022,31.83333333,22,27.88888889,79.9,Partly cloudy throughout the day.
+4/14/2022,30.05555556,22,25.66666667,81.8,Cloudy skies throughout the day with morning rain.
+4/15/2022,32,24,28,72.6,Partly cloudy throughout the day.
+4/16/2022,33,25.83333333,28.77777778,74.6,Partly cloudy throughout the day.
+4/17/2022,33.83333333,24,28.72222222,70.8,Partly cloudy throughout the day.
+4/18/2022,32.83333333,24,28.33333333,69.9,Partly cloudy throughout the day.
+4/19/2022,32.88888889,24.11111111,28.22222222,70.5,Partly cloudy throughout the day.
+4/20/2022,34.11111111,25,29.5,71.5,Partly cloudy throughout the day.
+4/21/2022,34,26,29.72222222,70,Partly cloudy throughout the day.
+4/22/2022,34.88888889,26,29.44444444,66.6,Partly cloudy throughout the day.
+4/23/2022,34.05555556,24,28.61111111,72.1,Partly cloudy throughout the day.
+4/24/2022,33.83333333,27,29.88888889,73.8,Partly cloudy throughout the day.
+4/25/2022,33.88888889,26.83333333,29.33333333,71,Partly cloudy throughout the day.
+4/26/2022,34.66666667,25,29.88888889,67.6,Partly cloudy throughout the day.
+4/27/2022,35,27,30.77777778,72.1,Partly cloudy throughout the day.
+4/28/2022,34.83333333,28,30.66666667,74.4,Partly cloudy throughout the day.
+4/29/2022,34.05555556,26,30,69.5,Partly cloudy throughout the day.
+4/30/2022,35,26,30.16666667,71.1,Partly cloudy throughout the day.
+5/1/2022,32,27,29.83333333,73.5,Partly cloudy throughout the day.
+5/2/2022,34,26,29.77777778,70.5,Partly cloudy throughout the day.
+5/3/2022,34,27,30.27777778,70.2,Partly cloudy throughout the day.
+5/4/2022,33,24,28.33333333,81.5,Partly cloudy throughout the day with early morning rain.
+5/5/2022,32.11111111,25,28.44444444,76.2,Partly cloudy throughout the day.
+5/6/2022,33,25,28.61111111,77.8,Partly cloudy throughout the day with late afternoon rain.
+5/7/2022,33,24,28.72222222,73.5,Partly cloudy throughout the day.
+5/8/2022,32,26,29.33333333,74.5,Partly cloudy throughout the day.
+5/9/2022,31,27,28.77777778,76.2,Partly cloudy throughout the day with morning rain.
+5/10/2022,31.11111111,28,29.55555556,72.6,Partly cloudy throughout the day with early morning rain.
+5/11/2022,29,23,26.61111111,82.9,Partly cloudy throughout the day with rain in the morning and afternoon.
+5/12/2022,27.22222222,23.83333333,25.44444444,85.5,Cloudy skies throughout the day with morning rain.
+5/13/2022,31.05555556,24,27.5,81.7,Partly cloudy throughout the day.
+5/14/2022,32,25.83333333,28.5,79.8,Partly cloudy throughout the day with morning rain.
+5/15/2022,32,26,28.27777778,80.4,Partly cloudy throughout the day with early morning rain.
+5/16/2022,30.11111111,23.11111111,26.72222222,88.7,Cloudy skies throughout the day with rain.
+5/17/2022,28.11111111,23,25.66666667,86.7,Cloudy skies throughout the day.
+5/18/2022,28,24,25.83333333,86.5,Cloudy skies throughout the day with rain.
+5/19/2022,24,21,22.27777778,90.5,Cloudy skies throughout the day with a chance of rain throughout the day.
+5/20/2022,25,21,23.11111111,89.7,Partly cloudy throughout the day with rain in the morning and afternoon.
+5/21/2022,30,22.83333333,25.38888889,83.7,Partly cloudy throughout the day with late afternoon rain.
+5/22/2022,27,24,25.33333333,91.5,Cloudy skies throughout the day with afternoon rain.
+5/23/2022,31,24,27.55555556,85,Partly cloudy throughout the day.
+5/24/2022,32,26,28.83333333,84.3,Partly cloudy throughout the day with morning rain.
+5/25/2022,32.83333333,26,29.16666667,78.5,Partly cloudy throughout the day.
+5/26/2022,32.05555556,25.94444444,29.05555556,76.2,Partly cloudy throughout the day with morning rain.
+5/27/2022,31.11111111,25.88888889,28.61111111,76.7,Partly cloudy throughout the day.
+5/28/2022,31,24,27.5,79,Partly cloudy throughout the day with rain.
+5/29/2022,31,24,27.61111111,76.3,Partly cloudy throughout the day with early morning rain.
+5/30/2022,31,25,28.22222222,75.9,Partly cloudy throughout the day.
+5/31/2022,31,23,27.44444444,80.3,Partly cloudy throughout the day with a chance of rain throughout the day.
+6/1/2022,30,24,27.22222222,81.2,Partly cloudy throughout the day with afternoon rain.
+6/2/2022,31,24,27.38888889,82.1,Partly cloudy throughout the day.
+6/3/2022,32,25,28.11111111,79.2,Partly cloudy throughout the day with rain.
+6/4/2022,32,25,28.72222222,77.3,Partly cloudy throughout the day.
+6/5/2022,32,25,28.88888889,73.8,Partly cloudy throughout the day.
+6/6/2022,31,24.61111111,27.55555556,80.1,Partly cloudy throughout the day.
+6/7/2022,31.05555556,24,26.72222222,83.6,Partly cloudy throughout the day with late afternoon rain.
+6/8/2022,30,24,26.55555556,83.2,Partly cloudy throughout the day with morning rain.
+6/9/2022,31.27777778,24,27.61111111,79.4,Partly cloudy throughout the day with rain.
+6/10/2022,31,23.88888889,26.33333333,84.7,Partly cloudy throughout the day with rain.
+6/11/2022,28.16666667,23,25.38888889,87.2,Cloudy skies throughout the day with rain.
+6/12/2022,30.11111111,23,24.72222222,89.4,Cloudy skies throughout the day with rain.
+6/13/2022,30,23,26.11111111,81.7,Partly cloudy throughout the day.
+6/14/2022,31,24,27.11111111,80.4,Partly cloudy throughout the day.
+6/15/2022,30,24,26.77777778,85.8,Partly cloudy throughout the day with rain.
+6/16/2022,30,24,25.88888889,88.8,Partly cloudy throughout the day with a chance of rain throughout the day.
+6/17/2022,31.05555556,24,27.16666667,80.3,Partly cloudy throughout the day with early morning rain.
+6/18/2022,30,24,26.55555556,85.6,Partly cloudy throughout the day with late afternoon rain.
+6/19/2022,30.05555556,23.88888889,26.05555556,83.8,Cloudy skies throughout the day with rain.
+6/20/2022,30,23,25.44444444,84.8,Partly cloudy throughout the day with late afternoon rain.
+6/21/2022,27,22.94444444,23.72222222,93.2,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/22/2022,25,23,23.94444444,93.9,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/23/2022,28,24,25.05555556,90.4,Cloudy skies throughout the day with rain.
+6/24/2022,29,24,25.66666667,87.6,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/25/2022,29,23,25.88888889,87.8,Partly cloudy throughout the day with rain clearing later.
+6/26/2022,30,25,27.11111111,84,Partly cloudy throughout the day with rain.
+6/27/2022,30,24,26.27777778,85.5,Partly cloudy throughout the day with rain.
+6/28/2022,29,23.88888889,24.88888889,90.3,Partly cloudy throughout the day with a chance of rain throughout the day.
+6/29/2022,26.11111111,23.83333333,24.72222222,92.5,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/30/2022,24.22222222,24,24,94.7,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/1/2022,26,23,24.5,93.4,Cloudy skies throughout the day with rain.
+7/2/2022,29,24,26.16666667,88.7,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/3/2022,29.05555556,23.88888889,26.27777778,86.8,Cloudy skies throughout the day with rain.
+7/4/2022,26,23.83333333,24.61111111,92.4,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/5/2022,25.61111111,23,24.16666667,93.7,Cloudy skies throughout the day with rain in the morning and afternoon.
+7/6/2022,27,24,24.88888889,91.4,Cloudy skies throughout the day with rain.
+7/7/2022,25,23,24.16666667,93.5,Cloudy skies throughout the day with rain.
+7/8/2022,26.66666667,23,24.33333333,92.2,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/9/2022,26,23,24.22222222,93.8,Cloudy skies throughout the day with morning rain.
+7/10/2022,26,23.22222222,24.38888889,92.1,Cloudy skies throughout the day with rain.
+7/11/2022,27.27777778,22.11111111,24.94444444,90.7,Cloudy skies throughout the day with rain.
+7/12/2022,29,24,25.88888889,87.6,Partly cloudy throughout the day with a chance of rain throughout the day.
+7/13/2022,27,23.83333333,24.83333333,90.8,Cloudy skies throughout the day with rain.
+7/14/2022,28,23,25.44444444,88.7,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/15/2022,29,23,26,87.9,Partly cloudy throughout the day with a chance of rain throughout the day.
+7/16/2022,28,23,24.94444444,91,Cloudy skies throughout the day with morning rain.
+7/17/2022,29,24,25.22222222,89,Cloudy skies throughout the day with rain.
+7/18/2022,29,23.94444444,25.38888889,88.2,Cloudy skies throughout the day with rain.
+7/19/2022,28,24,25.33333333,88.3,Partly cloudy throughout the day with morning rain.
+7/20/2022,29,24,25.77777778,85.9,Partly cloudy throughout the day with rain.
+7/21/2022,29.11111111,23,26.11111111,83.2,Partly cloudy throughout the day with rain.
+7/22/2022,29,24,26.33333333,84.3,Partly cloudy throughout the day with rain.
+7/23/2022,28,24,25.5,87.8,Cloudy skies throughout the day with rain.
+7/24/2022,28,23,25.33333333,86.3,Cloudy skies throughout the day with rain.
+7/25/2022,28,23.88888889,25.38888889,87.1,Partly cloudy throughout the day with afternoon rain.
+7/26/2022,29.11111111,23,26.22222222,81.6,Partly cloudy throughout the day.
+7/27/2022,29.11111111,24,26.27777778,84.4,Partly cloudy throughout the day with rain.
+7/28/2022,30,24,26.5,84.6,Partly cloudy throughout the day.
+7/29/2022,31,25,27.44444444,83.4,Partly cloudy throughout the day.
+7/30/2022,29.88888889,22,26.61111111,85.3,Partly cloudy throughout the day with rain clearing later.
+7/31/2022,30.22222222,25.88888889,27.11111111,84.6,Partly cloudy throughout the day with late afternoon rain.
+8/1/2022,27,24,25.77777778,88.7,Cloudy skies throughout the day with afternoon rain.
+8/2/2022,26,23.94444444,24.66666667,89.2,Cloudy skies throughout the day with rain.
+8/3/2022,28,24,25.33333333,89.2,Cloudy skies throughout the day with rain.
+8/4/2022,26,23,24,92.8,Cloudy skies throughout the day with rain.
+8/5/2022,24,23,23.11111111,94.8,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/6/2022,24.05555556,22.88888889,23.44444444,93.8,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/7/2022,25,23,23.88888889,94,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/8/2022,27,24,25,90.5,Cloudy skies throughout the day with rain clearing later.
+8/9/2022,29,24.88888889,26.33333333,83.5,Partly cloudy throughout the day with afternoon rain.
+8/10/2022,28.05555556,25,26.22222222,84.7,Partly cloudy throughout the day with afternoon rain.
+8/11/2022,29,23.11111111,26.11111111,85.7,Partly cloudy throughout the day with rain in the morning and afternoon.
+8/12/2022,30,23,26.22222222,86.3,Partly cloudy throughout the day with rain.
+8/13/2022,29.05555556,24,26.33333333,81.9,Partly cloudy throughout the day with late afternoon rain.
+8/14/2022,28,23,25.72222222,83.5,Partly cloudy throughout the day with late afternoon rain.
+8/15/2022,29,24,26.22222222,83.4,Partly cloudy throughout the day.
+8/16/2022,30,23.88888889,26.16666667,82.8,Partly cloudy throughout the day with morning rain.
+8/17/2022,30,23.94444444,26.72222222,79.5,Partly cloudy throughout the day with rain.
+8/18/2022,29.05555556,24,26.38888889,80.9,Partly cloudy throughout the day with afternoon rain.
+8/19/2022,29,25.83333333,26.88888889,78.4,Partly cloudy throughout the day with late afternoon rain.
+8/20/2022,29,25,26.44444444,83.7,Partly cloudy throughout the day.
+8/21/2022,28.88888889,24,25.61111111,88.6,Partly cloudy throughout the day with rain in the morning and afternoon.
+8/22/2022,28,24,25.83333333,88,Partly cloudy throughout the day with rain clearing later.
+8/23/2022,27,23.83333333,24.94444444,91.2,Cloudy skies throughout the day with rain in the morning and afternoon.
+8/24/2022,25.05555556,23,23.72222222,94,Cloudy skies throughout the day with rain.
+8/25/2022,29,23,25.5,86.7,Partly cloudy throughout the day.
+8/26/2022,28.88888889,24,26.16666667,86.8,Partly cloudy throughout the day with rain clearing later.
+8/27/2022,27.88888889,23,25.44444444,88.6,Cloudy skies throughout the day with rain.
+8/28/2022,29.22222222,22.83333333,25.77777778,85.1,Partly cloudy throughout the day with early morning rain.
+8/29/2022,29,25,26.38888889,86.4,Partly cloudy throughout the day with early morning rain.
+8/30/2022,30,25,26.61111111,83.8,Partly cloudy throughout the day with morning rain.
+8/31/2022,29.88888889,24,26,86.4,Partly cloudy throughout the day with morning rain.
+9/1/2022,29.22222222,24,25.94444444,85.7,Partly cloudy throughout the day with early morning rain.
+9/2/2022,30,23,25.94444444,84,Partly cloudy throughout the day with early morning rain.
+9/3/2022,30,24,26.61111111,79.2,Partly cloudy throughout the day.
+9/4/2022,30.05555556,24,27.05555556,82,Partly cloudy throughout the day.
+9/5/2022,30.22222222,25.88888889,27,84.7,Partly cloudy throughout the day with early morning rain.
+9/6/2022,29,24.83333333,26.22222222,86.4,Partly cloudy throughout the day.
+9/7/2022,27,24,25,89.2,Cloudy skies throughout the day with morning rain.
+9/8/2022,26,23.83333333,24.61111111,92,Cloudy skies throughout the day with rain.
+9/9/2022,28.22222222,24,25.44444444,88.1,Cloudy skies throughout the day with rain.
+9/10/2022,28,23.94444444,25.72222222,88.7,Partly cloudy throughout the day with rain.
+9/11/2022,28.11111111,24,26.05555556,87.1,Cloudy skies throughout the day with rain clearing later.
+9/12/2022,28.83333333,24.88888889,26.5,85.6,Partly cloudy throughout the day with rain clearing later.
+9/13/2022,28,23,25.83333333,88.2,Partly cloudy throughout the day with rain.
+9/14/2022,29,24,25.88888889,85.8,Partly cloudy throughout the day with rain clearing later.
+9/15/2022,29,23,25.72222222,84.4,Partly cloudy throughout the day with rain.
+9/16/2022,29,24,25.72222222,86.9,Partly cloudy throughout the day with rain.
+9/17/2022,29,24,25.83333333,87.1,Partly cloudy throughout the day.
+9/18/2022,29.22222222,24,26.61111111,83.5,Partly cloudy throughout the day with morning rain.
+9/19/2022,29,24,26.05555556,83.4,Partly cloudy throughout the day with rain clearing later.
+9/20/2022,29,24,26.11111111,82.9,Partly cloudy throughout the day with early morning rain.
+9/21/2022,30,23.83333333,26.27777778,80.7,Partly cloudy throughout the day with early morning rain.
+9/22/2022,30,23,26.38888889,77.3,Partly cloudy throughout the day with morning rain.
+9/23/2022,30,23,25.55555556,82.4,Partly cloudy throughout the day.
+9/24/2022,29.83333333,22.83333333,25.77777778,81.7,Partly cloudy throughout the day with morning rain.
+9/25/2022,30,23.83333333,26.44444444,79,Partly cloudy throughout the day with morning rain.
+9/26/2022,30,24,26.72222222,77.3,Partly cloudy throughout the day.
+9/27/2022,30,24,26.94444444,77.2,Clearing in the afternoon with morning rain.
+9/28/2022,30,24,26.66666667,79.3,Partly cloudy throughout the day.
+9/29/2022,30.05555556,24,26.55555556,79.5,Partly cloudy throughout the day with morning rain.
+9/30/2022,27,23,24.61111111,90.9,Partly cloudy throughout the day with morning rain.
+10/1/2022,27,23,24.61111111,90.4,Cloudy skies throughout the day with morning rain.
+10/2/2022,30,23,26.11111111,83.2,Partly cloudy throughout the day with morning rain.
+10/3/2022,29.05555556,24,26.16666667,84.2,Partly cloudy throughout the day with early morning rain.
+10/4/2022,30,24.88888889,26.77777778,81.8,Partly cloudy throughout the day with early morning rain.
+10/5/2022,29,25,26.61111111,85.7,Partly cloudy throughout the day with late afternoon rain.
+10/6/2022,29,24,26,83.1,Partly cloudy throughout the day with early morning rain.
+10/7/2022,29,23,25.66666667,82.8,Partly cloudy throughout the day with early morning rain.
+10/8/2022,30,23,26,80,Partly cloudy throughout the day.
+10/9/2022,30,24,26.61111111,77,Partly cloudy throughout the day.
+10/10/2022,29,24,25.83333333,81.6,Partly cloudy throughout the day.
+10/11/2022,29.11111111,24,26.16666667,83.9,Partly cloudy throughout the day.
+10/12/2022,30,24,26.83333333,83.1,Partly cloudy throughout the day with early morning rain.
+10/13/2022,30.11111111,24,27.05555556,79.9,Partly cloudy throughout the day with late afternoon rain.
+10/14/2022,30,23.94444444,26.33333333,82.5,Partly cloudy throughout the day with rain clearing later.
+10/15/2022,30.11111111,24,26.94444444,81.3,Partly cloudy throughout the day.
+10/16/2022,29.05555556,25,26.66666667,82.7,Partly cloudy throughout the day with rain in the morning and afternoon.
+10/17/2022,31,24.83333333,27,82.4,Partly cloudy throughout the day with late afternoon rain.
+10/18/2022,30,24.94444444,26.38888889,84.2,Partly cloudy throughout the day with afternoon rain.
+10/19/2022,31,23.83333333,26.66666667,81.7,Partly cloudy throughout the day with late afternoon rain.
+10/20/2022,30.83333333,24,26.83333333,80.8,Partly cloudy throughout the day with late afternoon rain.
+10/21/2022,31,23.94444444,27.22222222,82.7,Partly cloudy throughout the day with late afternoon rain.
+10/22/2022,31,24,27,82.4,Partly cloudy throughout the day with afternoon rain.
+10/23/2022,32,24.88888889,27.83333333,77,Partly cloudy throughout the day.
+10/24/2022,32,24,27.55555556,72.7,Partly cloudy throughout the day.
+10/25/2022,31,22,26.44444444,72,Clear conditions throughout the day.
+10/26/2022,32,22,26.83333333,72.3,Clear conditions throughout the day.
+10/27/2022,33,22,27.33333333,63.7,Clear conditions throughout the day.
+10/28/2022,33.88888889,22,27.55555556,66.4,Partly cloudy throughout the day.
+10/29/2022,33,24,27.5,69.8,Partly cloudy throughout the day with late afternoon rain.
+10/30/2022,31.83333333,25,27.5,75.1,Partly cloudy throughout the day with morning rain.
+10/31/2022,33,24,28.33333333,70.5,Clearing in the afternoon.
+11/1/2022,33,24,27.72222222,74.3,Partly cloudy throughout the day.
+11/2/2022,32,24,27.16666667,78.2,Partly cloudy throughout the day with afternoon rain.
+11/3/2022,33,24.88888889,28.05555556,70,Partly cloudy throughout the day.
+11/4/2022,33,24.88888889,27.94444444,73.9,Partly cloudy throughout the day with late afternoon rain.
+11/5/2022,33,24,27.33333333,76.3,Partly cloudy throughout the day.
+11/6/2022,33,25,28.05555556,74.8,Partly cloudy throughout the day.
+11/7/2022,32.05555556,25,27.88888889,78.1,Partly cloudy throughout the day with afternoon rain.
+11/8/2022,33,24,27.94444444,71.9,Partly cloudy throughout the day.
+11/9/2022,34.05555556,24,27.94444444,65.2,Clear conditions throughout the day.
+11/10/2022,33.05555556,23,27.38888889,65.4,Clear conditions throughout the day.
+11/11/2022,33,24,27.77777778,65.1,Partly cloudy throughout the day.
+11/12/2022,30,25,27.44444444,74.6,Partly cloudy throughout the day with morning rain.
+11/13/2022,32,25,27.94444444,72.1,Partly cloudy throughout the day.
+11/14/2022,33,23,27.83333333,74.8,Partly cloudy throughout the day with late afternoon rain.
+11/15/2022,30.83333333,23,26.72222222,79.5,Partly cloudy throughout the day.
+11/16/2022,30.11111111,24,26.77777778,80.2,Partly cloudy throughout the day.
+11/17/2022,32.11111111,23,27.27777778,71.8,Partly cloudy throughout the day.
+11/18/2022,32.83333333,22.05555556,26.55555556,60.9,Clear conditions throughout the day.
+11/19/2022,32.83333333,21,26,59.5,Clear conditions throughout the day.
+11/20/2022,32,21.83333333,25.88888889,61.6,Clear conditions throughout the day.
+11/21/2022,32,22,26.11111111,58.6,Clear conditions throughout the day.
+11/22/2022,31,21,25.72222222,63.2,Partly cloudy throughout the day.
+11/23/2022,30.11111111,23.88888889,26.27777778,69.8,Partly cloudy throughout the day.
+11/24/2022,31,24,26.55555556,76.5,Partly cloudy throughout the day with late afternoon rain.
+11/25/2022,32,24,27.38888889,80.6,Partly cloudy throughout the day with early morning rain.
+11/26/2022,33,24,27.38888889,79.3,Partly cloudy throughout the day.
+11/27/2022,30.27777778,25,26.72222222,82.1,Partly cloudy throughout the day with rain.
+11/28/2022,28,24,25.5,86,Partly cloudy throughout the day with early morning rain.
+11/29/2022,29,24,26.22222222,83.1,Partly cloudy throughout the day with early morning rain.
+11/30/2022,31.83333333,24,27.11111111,80.1,Partly cloudy throughout the day.
+12/1/2022,32.11111111,23,26.83333333,70.7,Clear conditions throughout the day.
+12/2/2022,32.11111111,22.94444444,26.94444444,73.1,Becoming cloudy in the afternoon.
+12/3/2022,33,24.88888889,28.11111111,71.5,Partly cloudy throughout the day.
+12/4/2022,33,24.94444444,28.27777778,72.5,Partly cloudy throughout the day with early morning rain.
+12/5/2022,33,25,28.11111111,71.7,Partly cloudy throughout the day with late afternoon rain.
+12/6/2022,33,24,28.11111111,71.8,Partly cloudy throughout the day with early morning rain.
+12/7/2022,30,24,26.44444444,70.9,Partly cloudy throughout the day.
+12/8/2022,32,20,25.72222222,63.8,Partly cloudy throughout the day.
+12/9/2022,28.05555556,21,25.05555556,58.7,Partly cloudy throughout the day.
+12/10/2022,30.11111111,22.94444444,26.55555556,63,Partly cloudy throughout the day with late afternoon rain.
+12/11/2022,27,22,24.55555556,81,Cloudy skies throughout the day with late afternoon rain.
+12/12/2022,28,23,24.72222222,85.7,Partly cloudy throughout the day with afternoon rain.
+12/13/2022,28.88888889,22.94444444,25.66666667,80.3,Partly cloudy throughout the day with afternoon rain.
+12/14/2022,30.11111111,23.94444444,26.77777778,70.5,Partly cloudy throughout the day with early morning rain.
+12/15/2022,33,22.94444444,26.77777778,70.2,Partly cloudy throughout the day.
+12/16/2022,32,21.94444444,26.61111111,68.9,Partly cloudy throughout the day.
+12/17/2022,32,22,26.5,67.1,Clear conditions throughout the day.
+12/18/2022,33,23,27.11111111,66.1,Partly cloudy throughout the day.
+12/19/2022,32.88888889,23,27,63.7,Clear conditions throughout the day.
+12/20/2022,33,22,26.83333333,61.5,Partly cloudy throughout the day.
+12/21/2022,34,23,27.5,66.7,Partly cloudy throughout the day.
+12/22/2022,33,22,26.61111111,63.6,Partly cloudy throughout the day.
+12/23/2022,32,21,26,61.3,Clear conditions throughout the day.
+12/24/2022,33,20.94444444,26.66666667,52,Partly cloudy throughout the day.
+12/25/2022,33.11111111,20,26.27777778,59.7,Clear conditions throughout the day.
+12/26/2022,35.05555556,24,28.5,65.1,Partly cloudy throughout the day.
+12/27/2022,34.88888889,24,28.77777778,67.1,Partly cloudy throughout the day.
+12/28/2022,33,24.11111111,28.27777778,71.6,Partly cloudy throughout the day.
+12/29/2022,34,25,28.38888889,73,Partly cloudy throughout the day.
+12/30/2022,34,24,28.44444444,64.6,Partly cloudy throughout the day.
+12/31/2022,33,23,27.22222222,68.4,Partly cloudy throughout the day.
+1/1/2023,25.8,13.4,20.1,70.3,Partly cloudy throughout the day.
+1/2/2023,23.4,15.5,19.6,75.5,Partly cloudy throughout the day with rain.
+1/3/2023,14.9,10.6,12.9,71.1,Partly cloudy throughout the day with rain.
+1/4/2023,17,9.6,13.1,74.1,Partly cloudy throughout the day with rain clearing later.
+1/5/2023,16.6,6.9,12.1,81.3,Partly cloudy throughout the day with afternoon rain.
+1/6/2023,18,10.8,14,71.2,Partly cloudy throughout the day with rain.
+1/7/2023,21.1,8.8,15.1,76.1,Partly cloudy throughout the day.
+1/8/2023,25.7,11.6,18.4,64.6,Clear conditions throughout the day.
+1/9/2023,22.4,12.1,16.5,75.3,Partly cloudy throughout the day with late afternoon rain.
+1/10/2023,20.4,12.2,15.4,71.3,Partly cloudy throughout the day with early morning rain.
+1/11/2023,24.7,8.8,17.1,66.9,Partly cloudy throughout the day.
+1/12/2023,21.8,10.8,16.9,75.1,Partly cloudy throughout the day.
+1/13/2023,25.5,13.1,19.6,73.4,Partly cloudy throughout the day.
+1/14/2023,28.8,17.1,22.6,60.9,Partly cloudy throughout the day.
+1/15/2023,20.9,10.5,17.4,59.3,Clearing in the afternoon.
+1/16/2023,19,6.6,13.2,69.1,Partly cloudy throughout the day.
+1/17/2023,28,10.9,19.6,67.6,Partly cloudy throughout the day with morning rain.
+1/18/2023,21.9,11.9,17.8,68.8,Partly cloudy throughout the day with a chance of rain throughout the day.
+1/19/2023,15.9,9.9,12.8,59.6,Partly cloudy throughout the day with rain.
+1/20/2023,20.4,8.4,14.9,66.6,Partly cloudy throughout the day.
+1/21/2023,20,9.7,15.3,76.9,Partly cloudy throughout the day with rain.
+1/22/2023,20,13.2,16,83.2,Partly cloudy throughout the day with rain.
+1/23/2023,22.8,11.4,17.3,74.9,Partly cloudy throughout the day with rain.
+1/24/2023,24,12.3,18,72.9,Partly cloudy throughout the day with rain.
+1/25/2023,24.9,13.6,19.3,68.5,Becoming cloudy in the afternoon with early morning rain.
+1/26/2023,18.3,10.3,15,56.8,Partly cloudy throughout the day with rain.
+1/27/2023,24.3,8.7,17.1,60.5,Partly cloudy throughout the day.
+1/28/2023,30.1,15.8,21,57,Partly cloudy throughout the day.
+1/29/2023,20.7,13.2,16.6,67.6,Clearing in the afternoon with afternoon rain.
+1/30/2023,23.8,13,17.4,68.7,Clearing in the afternoon with early morning rain.
+1/31/2023,25.1,14.8,18.4,68.5,Partly cloudy throughout the day with early morning rain.
+2/1/2023,19.1,8.6,14.2,68.1,Partly cloudy throughout the day with afternoon rain.
+2/2/2023,17.2,7.7,11.6,73.3,Partly cloudy throughout the day with rain.
+2/3/2023,19.4,5.3,12.6,65.5,Becoming cloudy in the afternoon with afternoon rain.
+2/4/2023,15.8,10.1,13.5,75.2,Cloudy skies throughout the day with rain.
+2/5/2023,23.1,12.2,16.7,59.9,Partly cloudy throughout the day with rain.
+2/6/2023,21.9,11.4,16.3,58.2,Partly cloudy throughout the day.
+2/7/2023,19.5,9.7,14.7,60.9,Partly cloudy throughout the day.
+2/8/2023,16.3,11.3,13.6,62.9,Partly cloudy throughout the day.
+2/9/2023,20.9,12.6,16.2,64.8,Cloudy skies throughout the day with morning rain.
+2/10/2023,20.2,13.3,16.3,81.5,Partly cloudy throughout the day with a chance of rain throughout the day.
+2/11/2023,22.3,14.9,17.9,76.9,Partly cloudy throughout the day with rain.
+2/12/2023,19.5,12.1,15.9,69.2,Partly cloudy throughout the day with rain.
+2/13/2023,19.1,8.4,13.4,63.7,Partly cloudy throughout the day with late afternoon rain.
+2/14/2023,22.2,6.6,14.5,62.8,Partly cloudy throughout the day.
+2/15/2023,24.9,11,17.8,65.1,Partly cloudy throughout the day.
+2/16/2023,21.9,11.7,17.4,66.7,Partly cloudy throughout the day with rain.
+2/17/2023,33.9,15,22.1,59.2,Partly cloudy throughout the day with morning rain.
+2/18/2023,21,10.5,16.1,70,Partly cloudy throughout the day with rain.
+2/19/2023,29.2,10.1,19.2,52.9,Partly cloudy throughout the day.
+2/20/2023,17.2,13.1,15.3,73.4,Partly cloudy throughout the day with afternoon rain.
+2/21/2023,16.3,7.3,12.1,64.4,Partly cloudy throughout the day with rain.
+2/22/2023,19.2,4.7,12.1,66.6,Partly cloudy throughout the day.
+2/23/2023,24.1,10.5,17.4,57.4,Partly cloudy throughout the day.
+2/24/2023,28.7,15.5,21.9,54.7,Partly cloudy throughout the day.
+2/25/2023,29.9,17.2,21.3,64.2,Partly cloudy throughout the day with late afternoon rain.
+2/26/2023,19.1,13.8,16.3,92.2,Cloudy skies throughout the day with a chance of rain throughout the day.
+2/27/2023,16.9,12.4,14,78.6,Partly cloudy throughout the day with rain.
+2/28/2023,18.3,12.3,14.6,80.1,Cloudy skies throughout the day with rain.
+3/1/2023,20.5,11.2,15.6,66.3,Partly cloudy throughout the day.
+3/2/2023,21.7,12.8,16.6,62.8,Partly cloudy throughout the day with late afternoon rain.
+3/3/2023,20,8.2,13.4,54.1,Partly cloudy throughout the day.
+3/4/2023,19.4,8.7,14.3,71.6,Partly cloudy throughout the day with morning rain.
+3/5/2023,27.8,14.9,19.6,74.5,Partly cloudy throughout the day with a chance of rain throughout the day.
+3/6/2023,21.5,13.1,17.1,69.4,Partly cloudy throughout the day with a chance of rain throughout the day.
+3/7/2023,18.1,7.4,13.1,63.9,Partly cloudy throughout the day with a chance of rain throughout the day.
+3/8/2023,13.9,6.1,9.7,66.4,Partly cloudy throughout the day with rain.
+3/9/2023,17.4,8.6,13.1,69,Partly cloudy throughout the day with rain.
+3/10/2023,20.8,13.3,16.3,64.2,Partly cloudy throughout the day.
+3/11/2023,20.3,8.3,15.1,62.6,Partly cloudy throughout the day.
+3/12/2023,15.4,9.3,12.8,69.8,Partly cloudy throughout the day with afternoon rain.
+3/13/2023,20.6,7.8,14.1,66.1,Partly cloudy throughout the day.
+3/14/2023,24.3,9.8,16.5,69.6,Partly cloudy throughout the day.
+3/15/2023,23.6,10.4,16.5,71.2,Partly cloudy throughout the day.
+3/16/2023,20.3,12.5,16.6,55.6,Partly cloudy throughout the day with a chance of rain throughout the day.
+3/17/2023,18.1,10.8,13.8,55.4,Partly cloudy throughout the day with early morning rain.
+3/18/2023,23.3,12.3,17.1,64,Partly cloudy throughout the day with morning rain.
+3/19/2023,19.7,11.4,15.1,64.8,Partly cloudy throughout the day with a chance of rain throughout the day.
+3/20/2023,14.4,6.4,10.6,61.6,Partly cloudy throughout the day with rain.
+3/21/2023,16.4,2.9,10.5,70.4,Partly cloudy throughout the day.
+3/22/2023,14.8,3.4,12,77.7,Partly cloudy throughout the day with early morning rain.
+3/23/2023,18.8,7.1,12.7,76.3,Partly cloudy throughout the day.
+3/24/2023,19.3,7.1,13.4,66.8,Becoming cloudy in the afternoon with early morning rain.
+3/25/2023,17.9,9.9,12.9,63,Partly cloudy throughout the day.
+3/26/2023,18.9,5.1,12,74.6,Becoming cloudy in the afternoon.
+3/27/2023,14.3,10.1,12.7,76,Cloudy skies throughout the day with rain.
+3/28/2023,14.3,9.7,12.3,93,Cloudy skies throughout the day with a chance of rain throughout the day.
+3/29/2023,18,11.3,14.5,85.4,Partly cloudy throughout the day with early morning rain.
+3/30/2023,14.5,11.5,12.9,69.1,Partly cloudy throughout the day with a chance of rain throughout the day.
+3/31/2023,14.6,8,11.8,67.1,Partly cloudy throughout the day with rain.
+4/1/2023,15.9,6.7,10.6,62.6,Partly cloudy throughout the day.
+4/2/2023,17.6,8.8,12.7,67.2,Partly cloudy throughout the day.
+4/3/2023,18.9,6.1,12.7,71.1,Becoming cloudy in the afternoon.
+4/4/2023,19.1,8.3,13,72.1,Partly cloudy throughout the day.
+4/5/2023,16.3,6.9,11.2,76.7,Partly cloudy throughout the day.
+4/6/2023,19.8,9.8,13.7,74.2,Partly cloudy throughout the day.
+4/7/2023,15.8,12.3,13.9,90,Cloudy skies throughout the day with a chance of rain throughout the day.
+4/8/2023,15.7,7.2,11.6,70.1,Partly cloudy throughout the day with rain.
+4/9/2023,10,6.3,7.9,69,Partly cloudy throughout the day with rain.
+4/10/2023,10.8,7,9.5,73.4,Cloudy skies throughout the day with rain.
+4/11/2023,14.6,10.5,12.1,86,Partly cloudy throughout the day with a chance of rain throughout the day.
+4/12/2023,15.2,7,11.6,92.8,Partly cloudy throughout the day with rain.
+4/13/2023,17.3,7.2,13,82.6,Partly cloudy throughout the day with rain.
+4/14/2023,14.6,7.5,11.5,80.6,Partly cloudy throughout the day with rain clearing later.
+4/15/2023,17,8.7,13.3,81.9,Partly cloudy throughout the day with rain.
+4/16/2023,13.7,6.3,11.7,84,Partly cloudy throughout the day with a chance of rain throughout the day.
+4/17/2023,18,5.6,11,71.6,Partly cloudy throughout the day with afternoon rain.
+4/18/2023,19.8,5.5,13.1,78.6,Partly cloudy throughout the day with rain.
+4/19/2023,12.9,6.2,10,70.2,Partly cloudy throughout the day with rain.
+4/20/2023,18.1,7.3,12.9,66.7,Partly cloudy throughout the day.
+4/21/2023,20.8,15,17.2,61.2,Partly cloudy throughout the day with early morning rain.
+4/22/2023,19.9,11.9,15.6,62.5,Partly cloudy throughout the day.
+4/23/2023,17.5,6.1,12,58.5,Partly cloudy throughout the day.
+4/24/2023,20.1,5.5,11.3,68.2,Clear conditions throughout the day.
+4/25/2023,20.2,7,12.4,71.8,Partly cloudy throughout the day with morning rain.
+4/26/2023,22.7,9.2,14.9,63.1,Partly cloudy throughout the day.
+4/27/2023,18.7,9.9,14.2,79.7,Partly cloudy throughout the day with afternoon rain.
+4/28/2023,20,7,13.1,66.8,Partly cloudy throughout the day with afternoon rain.
+4/29/2023,16.1,3.5,9.9,61.4,Clear conditions throughout the day.
+4/30/2023,18.3,5.7,11.4,64.1,Clearing in the afternoon.
+5/1/2023,11.7,5.1,8.9,90.2,Partly cloudy throughout the day with rain.
+5/2/2023,16.2,6.1,10.4,87.3,Partly cloudy throughout the day with rain.
+5/3/2023,10,3.6,7.4,91.3,Partly cloudy throughout the day with a chance of rain throughout the day.
+5/4/2023,14.6,3.1,8,82.1,Partly cloudy throughout the day with rain.
+5/5/2023,14.8,4.5,9.3,77.1,Partly cloudy throughout the day with rain.
+5/6/2023,10.6,0.1,5.7,71.8,Becoming cloudy in the afternoon.
+5/7/2023,9.5,-0.6,3.2,79.9,Partly cloudy throughout the day with a chance of rain or snow throughout the day.
+5/8/2023,14,-0.3,7.1,73,Partly cloudy throughout the day with rain.
+5/9/2023,13.4,8.3,11,67,Partly cloudy throughout the day with rain.
+5/10/2023,13.9,5.3,9.6,73.5,Partly cloudy throughout the day.
+5/11/2023,15.3,1.3,8,74.6,Becoming cloudy in the afternoon.
+5/12/2023,15.7,5.3,9.4,71.9,Partly cloudy throughout the day.
+5/13/2023,14.5,3.4,8.4,75.3,Partly cloudy throughout the day.
+5/14/2023,15.6,2.1,8.4,69.2,Partly cloudy throughout the day with morning rain.
+5/15/2023,17.7,8.9,13.5,58.4,Partly cloudy throughout the day with late afternoon rain.
+5/16/2023,13.2,2.6,8.3,65.8,Clearing in the afternoon with rain.
+5/17/2023,11.9,1.1,5.1,78.5,Clearing in the afternoon with afternoon rain.
+5/18/2023,12.5,0.1,6.3,78.9,Partly cloudy throughout the day with late afternoon rain.
+5/19/2023,9,2.9,5.9,87,Partly cloudy throughout the day with rain.
+5/20/2023,11.8,1.8,7,73.5,Partly cloudy throughout the day with early morning rain.
+5/21/2023,10.6,6.6,8.4,63.9,Partly cloudy throughout the day with a chance of rain throughout the day.
+5/22/2023,15.7,9,12.3,62.6,Partly cloudy throughout the day.
+5/23/2023,15.2,11.4,12.8,65.2,Partly cloudy throughout the day.
+5/24/2023,17.9,9.7,13.9,65.7,Partly cloudy throughout the day.
+5/25/2023,15.1,6.2,11.2,65.6,Partly cloudy throughout the day with rain.
+5/26/2023,13,4.6,8.6,68.3,Partly cloudy throughout the day with early morning rain.
+5/27/2023,13.7,7.8,11.6,62,Partly cloudy throughout the day with late afternoon rain.
+5/28/2023,13.6,6.4,10.2,72.6,Partly cloudy throughout the day with rain clearing later.
+5/29/2023,10.4,6,8.7,60.7,Partly cloudy throughout the day with rain clearing later.
+5/30/2023,16.4,8.1,13,64.7,Partly cloudy throughout the day with late afternoon rain.
+5/31/2023,17.8,10.7,14.3,65.3,Partly cloudy throughout the day with a chance of rain throughout the day.
+6/1/2023,10.9,5.3,8.3,62.7,Partly cloudy throughout the day with early morning rain.
+6/2/2023,12.7,5.5,7.9,71.8,Becoming cloudy in the afternoon.
+6/3/2023,11.4,1.2,6.9,76.4,Partly cloudy throughout the day with afternoon rain.
+6/4/2023,12,-0.1,3.8,76.2,Clear conditions throughout the day with morning rain.
+6/5/2023,12.2,1.6,7,76.4,Partly cloudy throughout the day with rain in the morning and afternoon.
+6/6/2023,13,5.1,8.7,90.9,Partly cloudy throughout the day with rain.
+6/7/2023,16.4,9.3,12.7,82.4,Partly cloudy throughout the day with early morning rain.
+6/8/2023,14.4,7.1,12.3,83.3,Partly cloudy throughout the day with rain.
+6/9/2023,10.1,6.6,8.3,68.8,Partly cloudy throughout the day with rain.
+6/10/2023,12.6,6,9.8,67.2,Partly cloudy throughout the day with afternoon rain.
+6/11/2023,14.9,7.4,10.4,75.3,Partly cloudy throughout the day.
+6/12/2023,13.4,6.9,9.7,79.5,Partly cloudy throughout the day.
+6/13/2023,12.6,4.2,8.7,82.2,Partly cloudy throughout the day with late afternoon rain.
+6/14/2023,13.4,4.1,8.3,80.8,Partly cloudy throughout the day with early morning rain.
+6/15/2023,13.8,2.7,7.5,75.6,Partly cloudy throughout the day.
+6/16/2023,16.9,5.3,11.2,68.3,Partly cloudy throughout the day with late afternoon rain.
+6/17/2023,16.3,8.7,12.7,62.4,Partly cloudy throughout the day with late afternoon rain.
+6/18/2023,12.1,3.3,8.1,69.6,Partly cloudy throughout the day with rain.
+6/19/2023,8.5,3,5.7,67.1,Partly cloudy throughout the day with rain.
+6/20/2023,9.4,0.7,4.6,72.3,Partly cloudy throughout the day.
+6/21/2023,8.8,-0.9,3,83.2,Partly cloudy throughout the day with rain or snow in the morning and afternoon.
+6/22/2023,7.9,-0.5,4.1,87.7,Partly cloudy throughout the day with late afternoon rain.
+6/23/2023,10.7,6.2,9.2,94.7,Cloudy skies throughout the day with rain.
+6/24/2023,11.8,5.3,8.7,90.1,Cloudy skies throughout the day with early morning rain.
+6/25/2023,12.5,3.8,7.8,82,Partly cloudy throughout the day with rain.
+6/26/2023,11.4,4.1,8.4,72.3,Partly cloudy throughout the day with afternoon rain.
+6/27/2023,12.6,4.6,8.9,68.2,Becoming cloudy in the afternoon with late afternoon rain.
+6/28/2023,8.5,2.8,6.2,69.1,Partly cloudy throughout the day with rain.
+6/29/2023,10.3,3.9,7.4,72.9,Partly cloudy throughout the day with rain.
+6/30/2023,13.3,7.6,10.2,69.1,Becoming cloudy in the afternoon with late afternoon rain.
+7/1/2023,11,7.3,8.6,73.1,Partly cloudy throughout the day with rain clearing later.
+7/2/2023,14.4,5.2,9.6,64.9,Clear conditions throughout the day.
+7/3/2023,13.1,0.8,6.1,66.9,Partly cloudy throughout the day.
+7/4/2023,9.7,3.9,6.1,78.4,Partly cloudy throughout the day.
+7/5/2023,11.8,3.2,7.2,82.4,Partly cloudy throughout the day.
+7/6/2023,13.2,4.9,8.9,80.9,Partly cloudy throughout the day.
+7/7/2023,13.2,5.6,8.8,75.3,Partly cloudy throughout the day.
+7/8/2023,12.2,7,9.4,71.3,Partly cloudy throughout the day with rain in the morning and afternoon.
+7/9/2023,12.4,7,9.6,65.6,Partly cloudy throughout the day with early morning rain.
+7/10/2023,14.3,9.5,11.7,62.8,Partly cloudy throughout the day with rain.
+7/11/2023,14.2,8.7,11,64.3,Partly cloudy throughout the day with early morning rain.
+7/12/2023,14.9,9.6,13.2,59.1,Partly cloudy throughout the day with afternoon rain.
+7/13/2023,17.6,8.8,13.9,54.9,Partly cloudy throughout the day with early morning rain.
+7/14/2023,14.6,10,12.3,57.4,Partly cloudy throughout the day with rain in the morning and afternoon.
+7/15/2023,10.6,7.1,8.5,62.2,Partly cloudy throughout the day with rain in the morning and afternoon.
+7/16/2023,13.6,8.9,11.4,63.5,Partly cloudy throughout the day with rain.
+7/17/2023,15.2,9.4,11.7,58.8,Partly cloudy throughout the day with early morning rain.
+7/18/2023,12,6,8.9,64.6,Partly cloudy throughout the day with rain.
+7/19/2023,8.6,1.1,5.3,69.3,Partly cloudy throughout the day with rain.
+7/20/2023,11.5,3.8,7.9,67.7,Partly cloudy throughout the day with late afternoon rain.
+7/21/2023,11.1,2.3,6.5,72.7,Becoming cloudy in the afternoon with early morning rain.
+7/22/2023,13.9,2.1,7.6,78.5,Partly cloudy throughout the day with rain.
+7/23/2023,12.2,2.6,7.3,77.2,Partly cloudy throughout the day with early morning rain.
+7/24/2023,14.4,6.6,10.4,66.4,Partly cloudy throughout the day.
+7/25/2023,13.3,6,9.3,65.3,Partly cloudy throughout the day.
+7/26/2023,14.1,8.6,11.5,64.8,Partly cloudy throughout the day.
+7/27/2023,12.5,6.8,9.8,68,Partly cloudy throughout the day.
+7/28/2023,15.2,6.9,12,63.3,Partly cloudy throughout the day with morning rain.
+7/29/2023,16.5,7.8,11.8,64.7,Partly cloudy throughout the day with early morning rain.
+7/30/2023,14.5,5.9,11,63.1,Partly cloudy throughout the day with rain.
+7/31/2023,10.5,5.1,8,61.1,Partly cloudy throughout the day with rain.
+8/1/2023,10.2,3.5,7.6,60,Partly cloudy throughout the day.
+8/2/2023,13.4,3.6,7.9,72.1,Clearing in the afternoon.
+8/3/2023,17.1,6.8,12,63.5,Partly cloudy throughout the day.
+8/4/2023,15.1,10.7,12.7,71.2,Partly cloudy throughout the day with rain in the morning and afternoon.
+8/5/2023,13,7.5,10.1,63.8,Partly cloudy throughout the day with early morning rain.
+8/6/2023,13.2,4.9,8.9,75.3,Partly cloudy throughout the day with late afternoon rain.
+8/7/2023,13.7,2.2,6.7,81.3,Partly cloudy throughout the day with early morning rain.
+8/8/2023,12.9,2.3,6.7,79.9,Partly cloudy throughout the day with morning rain.
+8/9/2023,13.7,1.5,7.4,71.6,Partly cloudy throughout the day.
+8/10/2023,14.2,5.6,10.7,67.7,Partly cloudy throughout the day.
+8/11/2023,13.7,5.5,9.3,72.7,Partly cloudy throughout the day with late afternoon rain.
+8/12/2023,10.4,4.9,7.6,73.4,Partly cloudy throughout the day with rain.
+8/13/2023,8.8,1.4,5.2,73.8,Partly cloudy throughout the day with rain.
+8/14/2023,9.8,-1.4,3.8,80.3,Partly cloudy throughout the day with rain or snow clearing later.
+8/15/2023,10.6,-0.7,4.2,76.3,Partly cloudy throughout the day.
+8/16/2023,13,-0.9,6.3,72.6,Partly cloudy throughout the day with morning rain.
+8/17/2023,12.2,6.5,9.4,73,Cloudy skies throughout the day with afternoon rain.
+8/18/2023,11.1,5.6,8.6,67.4,Partly cloudy throughout the day with afternoon rain.
+8/19/2023,15.1,6,11,63.6,Partly cloudy throughout the day with early morning rain.
+8/20/2023,16.4,7.5,11.7,61.1,Partly cloudy throughout the day.
+8/21/2023,17.7,7.8,11.9,65.9,Partly cloudy throughout the day with morning rain.
+8/22/2023,13.1,4.9,8.8,87,Partly cloudy throughout the day with rain.
+8/23/2023,14.5,5,9.1,68.2,Partly cloudy throughout the day with rain.
+8/24/2023,16.8,6.8,11.2,69.4,Partly cloudy throughout the day with early morning rain.
+8/25/2023,12.4,5.6,9.7,66.6,Partly cloudy throughout the day with rain.
+8/26/2023,9.8,0.3,5.4,71.4,Partly cloudy throughout the day with rain.
+8/27/2023,12.2,-0.6,5.6,77.3,Becoming cloudy in the afternoon.
+8/28/2023,13.9,-0.1,6.9,83.6,Partly cloudy throughout the day with morning rain.
+8/29/2023,17.4,7.4,12.1,72.9,Partly cloudy throughout the day with rain.
+8/30/2023,13.2,5.8,9.8,76.1,Partly cloudy throughout the day with rain.
+8/31/2023,14,5,9.6,62.8,Partly cloudy throughout the day with rain.
+9/1/2023,11.5,3.6,7.4,70.6,Partly cloudy throughout the day with rain in the morning and afternoon.
+9/2/2023,13.3,1.2,6.6,78.1,Partly cloudy throughout the day with afternoon rain.
+9/3/2023,15.2,1.8,8.5,68.3,Clear conditions throughout the day with morning rain.
+9/4/2023,19.4,3.8,11.8,66.8,Partly cloudy throughout the day.
+9/5/2023,14.2,4.6,9.4,67.4,Partly cloudy throughout the day with rain.
+9/6/2023,16.5,5.7,11.1,58.9,Partly cloudy throughout the day.
+9/7/2023,18.1,8.7,13.2,69.3,Partly cloudy throughout the day with afternoon rain.
+9/8/2023,14.5,7.9,11,67.5,Partly cloudy throughout the day with rain.
+9/9/2023,11.1,5.2,7.7,60.4,Partly cloudy throughout the day with rain.
+9/10/2023,15,3.2,8.5,73.6,Partly cloudy throughout the day with rain.
+9/11/2023,12.1,-0.4,7,68.5,Partly cloudy throughout the day with rain.
+9/12/2023,15.5,6.3,10.5,74.2,Partly cloudy throughout the day with early morning rain.
+9/13/2023,22.3,5.5,13.4,61.1,Partly cloudy throughout the day.
+9/14/2023,21.9,8.6,14.8,66.6,Partly cloudy throughout the day.
+9/15/2023,18.6,10.9,15.3,49.8,Partly cloudy throughout the day with rain in the morning and afternoon.
+9/16/2023,14.6,9.8,12.4,75.5,Partly cloudy throughout the day with rain.
+9/17/2023,14.5,7.5,10.4,55.4,Partly cloudy throughout the day with early morning rain.
+9/18/2023,16.9,5.8,10.9,54.2,Becoming cloudy in the afternoon.
+9/19/2023,21.6,5.8,14.3,52.9,Partly cloudy throughout the day with late afternoon rain.
+9/20/2023,13.1,4.9,7.9,74.2,Partly cloudy throughout the day with rain.
+9/21/2023,10.4,1.2,6.5,74.5,Partly cloudy throughout the day with rain.
+9/22/2023,13.7,0,7.2,72.2,Partly cloudy throughout the day with morning rain.
+9/23/2023,15.5,4.7,9.8,77,Partly cloudy throughout the day.
+9/24/2023,18.2,4.2,11.3,69.3,Becoming cloudy in the afternoon with afternoon rain.
+9/25/2023,15.3,2.6,9.4,71.9,Partly cloudy throughout the day with rain.
+9/26/2023,14.4,1.8,7.5,72.2,Partly cloudy throughout the day.
+9/27/2023,17.7,2.6,10.1,67.7,Partly cloudy throughout the day.
+9/28/2023,18.5,8.9,13.6,55.6,Partly cloudy throughout the day.
+9/29/2023,15.1,8.8,12,68.9,Partly cloudy throughout the day with rain in the morning and afternoon.
+9/30/2023,22.1,5.3,14.7,65.8,Partly cloudy throughout the day with early morning rain.
+10/1/2023,19.3,7.6,13.8,57,Partly cloudy throughout the day with rain.
+10/2/2023,19.6,4.2,11.5,56.6,Clearing in the afternoon.
+10/3/2023,20.5,7.9,13.9,58.8,Partly cloudy throughout the day with rain in the morning and afternoon.
+10/4/2023,10,5.3,8.9,76.9,Partly cloudy throughout the day with rain.
+10/5/2023,14,6.8,9.7,67.4,Partly cloudy throughout the day with rain.
+10/6/2023,10.7,1.2,7.7,64.9,Partly cloudy throughout the day with rain.
+10/7/2023,15,2.2,8.7,69.3,Partly cloudy throughout the day with afternoon rain.
+10/8/2023,16.7,1.2,8.5,71.3,Clear conditions throughout the day with morning rain.
+10/9/2023,15.5,3.9,9.6,72.8,Partly cloudy throughout the day with late afternoon rain.
+10/10/2023,15.6,5.6,10.3,72.5,Clearing in the afternoon with early morning rain.
+10/11/2023,21.1,5,11.8,65.6,Becoming cloudy in the afternoon.
+10/12/2023,16.6,9.2,13.2,66.6,Partly cloudy throughout the day with rain.
+10/13/2023,13.9,8.6,11,63.3,Partly cloudy throughout the day with rain.
+10/14/2023,14,5.5,10,66.4,Partly cloudy throughout the day with rain.
+10/15/2023,12,4.3,7.6,66.9,Partly cloudy throughout the day with rain.
+10/16/2023,12.4,3.7,7.6,69.1,Partly cloudy throughout the day with rain.
+10/17/2023,20.2,1.5,10.6,60.5,Clear conditions throughout the day with rain.
+10/18/2023,19.3,3.9,11.9,64.8,Partly cloudy throughout the day.
+10/19/2023,17.7,7.7,12.2,65.2,Partly cloudy throughout the day.
+10/20/2023,15.4,8.3,11.5,78.9,Partly cloudy throughout the day with late afternoon rain.
+10/21/2023,14.1,9.4,11.6,93.6,Cloudy skies throughout the day with a chance of rain throughout the day.
+10/22/2023,15.4,9.9,12,80.2,Becoming cloudy in the afternoon with a chance of rain throughout the day.
+10/23/2023,17.6,9,12.3,79.8,Partly cloudy throughout the day with rain.
+10/24/2023,19.2,7.7,13.1,66.2,Partly cloudy throughout the day with early morning rain.
+10/25/2023,10.2,5.9,8.1,59.5,Partly cloudy throughout the day with rain.
+10/26/2023,11.9,5.7,8.3,59,Partly cloudy throughout the day with rain.
+10/27/2023,14.8,5.3,9.5,62.5,Partly cloudy throughout the day with early morning rain.
+10/28/2023,16.5,5.5,11.7,62.8,Partly cloudy throughout the day with late afternoon rain.
+10/29/2023,17.6,7.3,11.9,59.9,Partly cloudy throughout the day with early morning rain.
+10/30/2023,17.2,6.8,12.4,54.1,Partly cloudy throughout the day with afternoon rain.
+10/31/2023,13.9,6.2,9.8,58.5,Partly cloudy throughout the day with rain.
+11/1/2023,18.6,5,12.4,59.3,Partly cloudy throughout the day.
+11/2/2023,17.4,3.9,11.3,68.1,Clearing in the afternoon.
+11/3/2023,11.6,7.6,10,66.8,Partly cloudy throughout the day with afternoon rain.
+11/4/2023,12.7,2.6,8.7,70.5,Partly cloudy throughout the day with rain.
+11/5/2023,15.4,8.3,11.5,69,Partly cloudy throughout the day.
+11/6/2023,19,8.5,13.9,67.1,Partly cloudy throughout the day.
+11/7/2023,19.4,5.9,13.5,73.5,Partly cloudy throughout the day with late afternoon rain.
+11/8/2023,22.9,10.3,15.9,82.5,Partly cloudy throughout the day with rain.
+11/9/2023,21.4,14,16.5,84.5,Partly cloudy throughout the day with rain.
+11/10/2023,24.7,12.3,17.2,72.5,Partly cloudy throughout the day with morning rain.
+11/11/2023,18.4,7.3,15.1,67.1,Partly cloudy throughout the day.
+11/12/2023,14.5,5.5,10.2,63.5,Partly cloudy throughout the day with rain.
+11/13/2023,20.4,7.6,13.3,50.7,Partly cloudy throughout the day with afternoon rain.
+11/14/2023,16.6,9.3,12.3,57.3,Partly cloudy throughout the day.
+11/15/2023,18.7,8.7,12.3,58.1,Partly cloudy throughout the day with morning rain.
+11/16/2023,13.2,7.5,10.3,63,Partly cloudy throughout the day with rain.
+11/17/2023,20,4.1,12.4,62.5,Partly cloudy throughout the day.
+11/18/2023,17,8.4,12.9,70.1,Partly cloudy throughout the day.
+11/19/2023,20.9,10.5,13.8,76.4,Cloudy skies throughout the day with a chance of rain throughout the day.
+11/20/2023,19,7.5,13.7,73.5,Partly cloudy throughout the day with afternoon rain.
+11/21/2023,20.4,10.4,15.4,72.2,Partly cloudy throughout the day with early morning rain.
+11/22/2023,19.5,12,14.8,67.8,Partly cloudy throughout the day.
+11/23/2023,19,7.7,13.9,71.3,Clearing in the afternoon.
+11/24/2023,24,8.9,16.3,72.9,Becoming cloudy in the afternoon.
+11/25/2023,15.1,12.2,13.9,92.3,Partly cloudy throughout the day with rain.
+11/26/2023,13.9,8.5,12,92.3,Cloudy skies throughout the day with rain.
+11/27/2023,13,7.9,10.3,69.4,Cloudy skies throughout the day with rain.
+11/28/2023,15.1,9.7,12,76.1,Cloudy skies throughout the day with rain.
+11/29/2023,15.7,10.5,12.6,75.8,Cloudy skies throughout the day with rain.
+11/30/2023,15.6,10.1,12.2,77.4,Cloudy skies throughout the day with a chance of rain throughout the day.
+12/1/2023,17.6,10.2,13.4,75.9,Cloudy skies throughout the day with a chance of rain throughout the day.
+12/2/2023,19.2,9,14.3,75.9,Partly cloudy throughout the day with rain.
+12/3/2023,19,12.3,15.1,76.1,Partly cloudy throughout the day with a chance of rain throughout the day.
+12/4/2023,20,9.4,15.4,68.7,Partly cloudy throughout the day with rain.
+12/5/2023,20.2,10.1,15,69.3,Partly cloudy throughout the day.
+12/6/2023,21,9.7,14.5,51,Partly cloudy throughout the day.
+12/7/2023,23,7.4,15.4,58.7,Partly cloudy throughout the day.
+12/8/2023,23.3,9.4,15.3,70.8,Partly cloudy throughout the day with rain.
+12/9/2023,15.2,8.3,12.8,73.7,Partly cloudy throughout the day with rain.
+12/10/2023,20.6,3.8,12.1,65.3,Partly cloudy throughout the day with afternoon rain.
+12/11/2023,20.8,8.1,14.3,64.6,Partly cloudy throughout the day.
+12/12/2023,25.3,7.4,16.4,57.9,Partly cloudy throughout the day.
+12/13/2023,27.9,10.6,18.6,68.3,Partly cloudy throughout the day with rain.
+12/14/2023,20.2,13.1,17.3,68.5,Partly cloudy throughout the day with a chance of rain throughout the day.
+12/15/2023,17.3,9.3,13.7,58.9,Partly cloudy throughout the day with rain clearing later.
+12/16/2023,15.8,9.4,12.9,58.1,Partly cloudy throughout the day with rain.
+12/17/2023,21.4,8.1,14.7,59.7,Partly cloudy throughout the day.
+12/18/2023,19.8,11.5,15.1,72.6,Partly cloudy throughout the day with rain.
+12/19/2023,16.9,9.7,13.6,79.1,Partly cloudy throughout the day with rain.
+12/20/2023,16.4,5.5,11.7,74,Partly cloudy throughout the day with rain clearing later.
+12/21/2023,17.3,10.3,13.7,68.7,Partly cloudy throughout the day with rain.
+12/22/2023,16.7,6.9,12.6,71.4,Partly cloudy throughout the day with morning rain.
+12/23/2023,19.2,7.2,13.7,67.2,Partly cloudy throughout the day with early morning rain.
+12/24/2023,19,11.7,15.3,67,Partly cloudy throughout the day with late afternoon rain.
+12/25/2023,19.4,8.3,15.1,66,Partly cloudy throughout the day with early morning rain.
+12/26/2023,22.2,9,16.2,68.5,Partly cloudy throughout the day.
+12/27/2023,23.8,10.9,18,73.2,Partly cloudy throughout the day with rain in the morning and afternoon.
+12/28/2023,20.1,11.9,16,74.5,Partly cloudy throughout the day with late afternoon rain.
+12/29/2023,18,8.7,13.6,59.2,Partly cloudy throughout the day with rain.
+12/30/2023,15.7,9.9,12.7,54.5,Partly cloudy throughout the day with rain.
+12/31/2023,22.7,11,16.1,58.8,Partly cloudy throughout the day with afternoon rain.
+1/1/2024,31,23,27.1,73.1,Partly cloudy throughout the day.
+1/2/2024,30,24,26.8,76.1,Partly cloudy throughout the day.
+1/3/2024,28.5,24,25.9,87.4,Cloudy skies throughout the day with morning rain.
+1/4/2024,26,23,24.4,89,Partly cloudy throughout the day with rain in the morning and afternoon.
+1/5/2024,30.9,23,26.5,75.8,Partly cloudy throughout the day.
+1/6/2024,32,24,26.6,83.3,Partly cloudy throughout the day.
+1/7/2024,33,24,27.4,77.9,Partly cloudy throughout the day with late afternoon rain.
+1/8/2024,31,23.5,27.5,78.7,Partly cloudy throughout the day with early morning rain.
+1/9/2024,30,22,25,90.4,Cloudy skies throughout the day with rain.
+1/10/2024,32.1,23,26.6,66.7,Partly cloudy throughout the day.
+1/11/2024,32.4,23,27,64.9,Partly cloudy throughout the day.
+1/12/2024,33,23,26.9,65.1,Becoming cloudy in the afternoon.
+1/13/2024,31.9,22,26.5,72.8,Clear conditions throughout the day.
+1/14/2024,31,23,26.8,77.6,Clear conditions throughout the day.
+1/15/2024,32.8,23,27,75.4,Partly cloudy throughout the day.
+1/16/2024,30,23,26.3,76.2,Partly cloudy throughout the day.
+1/17/2024,31.9,22,26.2,74.5,Clear conditions throughout the day.
+1/18/2024,30,24,26.6,73.6,Partly cloudy throughout the day.
+1/19/2024,32,23,26.7,74.5,Clearing in the afternoon.
+1/20/2024,31.7,23,26.6,74.9,Partly cloudy throughout the day.
+1/21/2024,32,23,26.8,75.6,Clear conditions throughout the day.
+1/22/2024,32,23,27,73,Clear conditions throughout the day.
+1/23/2024,33.1,24,27.1,67.8,Clear conditions throughout the day.
+1/24/2024,30.9,21,25.8,68,Clear conditions throughout the day.
+1/25/2024,29,21,25.2,73.4,Clear conditions throughout the day.
+1/26/2024,31.9,22,26.4,69.3,Clear conditions throughout the day.
+1/27/2024,32,22,26.5,65.7,Clear conditions throughout the day.
+1/28/2024,32.8,22,26.7,63.2,Clear conditions throughout the day.
+1/29/2024,32.6,22,26.8,68.9,Clear conditions throughout the day.
+1/30/2024,32.7,22,26.4,69.8,Clear conditions throughout the day.
+1/31/2024,30.6,21,26,73.3,Clear conditions throughout the day.
+2/1/2024,31.4,22,26.1,71.3,Clear conditions throughout the day.
+2/2/2024,30,22,25.8,69.9,Clear conditions throughout the day.
+2/3/2024,31,21,26,68.6,Clear conditions throughout the day.
+2/4/2024,31,24,27.2,70.9,Clearing in the afternoon.
+2/5/2024,33,23,27.7,74,Clear conditions throughout the day.
+2/6/2024,33.1,23,27.9,73.5,Clear conditions throughout the day.
+2/7/2024,33,23,27.5,77.9,Clear conditions throughout the day.
+2/8/2024,33,24,27.7,78.2,Clear conditions throughout the day.
+2/9/2024,32.9,24,27.9,80.5,Partly cloudy throughout the day.
+2/10/2024,33.1,24,28.1,80.4,Partly cloudy throughout the day.
+2/11/2024,34.5,25,28.4,72.2,Clear conditions throughout the day with early morning rain.
+2/12/2024,34.1,23,28,67.6,Clear conditions throughout the day.
+2/13/2024,33,22,27.4,67.2,Clear conditions throughout the day.
+2/14/2024,33,23,27.7,72.7,Clear conditions throughout the day.
+2/15/2024,34.1,24,28.4,73.1,Partly cloudy throughout the day.
+2/16/2024,34,24,28.3,66.5,Clear conditions throughout the day.
+2/17/2024,34.8,24,28.3,68.5,Clear conditions throughout the day.
+2/18/2024,32.5,24,27.9,73.9,Partly cloudy throughout the day.
+2/19/2024,33,24,28.1,74.1,Clear conditions throughout the day.
+2/20/2024,32,24,27.6,75.4,Partly cloudy throughout the day.
+2/21/2024,32.1,24,27.6,69.6,Partly cloudy throughout the day.
+2/22/2024,31.6,23,27.1,67.8,Partly cloudy throughout the day.
+2/23/2024,31.8,22,26.6,68,Partly cloudy throughout the day.
+2/24/2024,31,22,26.6,68.2,Clear conditions throughout the day.
+2/25/2024,33,23,27.5,65.3,Clear conditions throughout the day.
+2/26/2024,33,24,28.3,67.5,Clear conditions throughout the day.
+2/27/2024,33.6,24,28.4,68.2,Clear conditions throughout the day.
+2/28/2024,34,25,28.7,73.2,Clearing in the afternoon.
+2/29/2024,33.1,24,28.6,76.7,Partly cloudy throughout the day.
+3/1/2024,32.9,25,28.3,78.7,Partly cloudy throughout the day.
+3/2/2024,33.8,25,28.9,74.1,Partly cloudy throughout the day with early morning rain.
+3/3/2024,33.1,26,28.7,70.9,Partly cloudy throughout the day.
+3/4/2024,31.7,24.6,27.4,74.1,Partly cloudy throughout the day.
+3/5/2024,31.4,24,27.4,74.9,Partly cloudy throughout the day.
+3/6/2024,32,24,27.5,68.7,Clear conditions throughout the day.
+3/7/2024,32.8,23,27.5,66.3,Clear conditions throughout the day.
+3/8/2024,33,24,27.9,71.7,Partly cloudy throughout the day.
+3/9/2024,33,24,28.1,74.6,Partly cloudy throughout the day.
+3/10/2024,32,25,28.2,75.4,Partly cloudy throughout the day.
+3/11/2024,32.5,26,28.5,74.2,Partly cloudy throughout the day.
+3/12/2024,33.8,25,28.6,74.5,Partly cloudy throughout the day.
+3/13/2024,33,25,28.4,77,Partly cloudy throughout the day.
+3/14/2024,33,25,28.4,74.4,Partly cloudy throughout the day.
+3/15/2024,32,24,27.5,71.4,Clear conditions throughout the day.
+3/16/2024,32.9,24,27.6,68.9,Partly cloudy throughout the day.
+3/17/2024,33,24,28,71.6,Partly cloudy throughout the day.
+3/18/2024,33,25,28.2,70.9,Partly cloudy throughout the day.
+3/19/2024,32.4,25,28,69.5,Clear conditions throughout the day.
+3/20/2024,32.1,24,28,75.1,Clear conditions throughout the day.
+3/21/2024,33,25,28.7,76.1,Partly cloudy throughout the day.
+3/22/2024,33.1,27,28.9,77.9,Partly cloudy throughout the day.
+3/23/2024,33,26,29.2,74.6,Partly cloudy throughout the day.
+3/24/2024,32.9,25,28.6,73,Partly cloudy throughout the day.
+3/25/2024,32.8,25,28.8,71.9,Clear conditions throughout the day.
+3/26/2024,32.9,25,28.5,78.3,Partly cloudy throughout the day.
+3/27/2024,33,26,29.2,74.6,Partly cloudy throughout the day.
+3/28/2024,32,26,28.6,77.4,Partly cloudy throughout the day with early morning rain.
+3/29/2024,33,26,29,74.5,Partly cloudy throughout the day with early morning rain.
+3/30/2024,33,25,28.8,75.8,Partly cloudy throughout the day.
+3/31/2024,32,25,28.7,76.3,Partly cloudy throughout the day.
+4/1/2024,34,27,29.8,75.9,Partly cloudy throughout the day with early morning rain.
+4/2/2024,34,27,29.7,75.3,Partly cloudy throughout the day with morning rain.
+4/3/2024,33.8,26,29.6,76.3,Partly cloudy throughout the day.
+4/4/2024,33,26,29.4,74.2,Partly cloudy throughout the day.
+4/5/2024,33.1,26,29.5,74.1,Partly cloudy throughout the day.
+4/6/2024,34.4,27,30,74.9,Partly cloudy throughout the day.
+4/7/2024,34.4,27,30,74.8,Partly cloudy throughout the day.
+4/8/2024,34.1,26,29.9,74.5,Partly cloudy throughout the day.
+4/9/2024,34.9,26,29.7,74.8,Partly cloudy throughout the day.
+4/10/2024,34.1,27,29.9,73.1,Clearing in the afternoon.
+4/11/2024,34,26,29.8,72.6,Partly cloudy throughout the day.
+4/12/2024,33.2,27,29.6,74.7,Partly cloudy throughout the day.
+4/13/2024,33,26,29.4,73.3,Partly cloudy throughout the day.
+4/14/2024,33.4,25.5,29.5,71.6,Clearing in the afternoon.
+4/15/2024,34.5,27,30.4,72.8,Partly cloudy throughout the day.
+4/16/2024,34,27,29.7,73.3,Partly cloudy throughout the day.
+4/17/2024,34,26,29.6,73.6,Partly cloudy throughout the day.
+4/18/2024,35,26,29.9,73.3,Partly cloudy throughout the day with afternoon rain.
+4/19/2024,32.9,27,30,76.6,Partly cloudy throughout the day with early morning rain.
+4/20/2024,30.3,23,27,82.3,Partly cloudy throughout the day with a chance of rain throughout the day.
+4/21/2024,32.7,25,29,78.1,Partly cloudy throughout the day.
+4/22/2024,33.7,27,29.9,75.5,Clearing in the afternoon.
+4/23/2024,32.5,26,29.5,77.7,Partly cloudy throughout the day.
+4/24/2024,33.6,28,30.4,76.5,Partly cloudy throughout the day.
+4/25/2024,34.5,27,30.1,75.1,Partly cloudy throughout the day.
+4/26/2024,34.6,27,30,73.8,Partly cloudy throughout the day.
+4/27/2024,33.5,26,29.9,76.7,Partly cloudy throughout the day.
+4/28/2024,34.7,28,30.5,76.7,Partly cloudy throughout the day.
+4/29/2024,34.9,28,30.7,75,Partly cloudy throughout the day.
+4/30/2024,33,27,30.1,77.7,Partly cloudy throughout the day.
+5/1/2024,33,28,30.2,76.2,Partly cloudy throughout the day with rain clearing later.
+5/2/2024,33.5,28,30.3,76.6,Partly cloudy throughout the day.
+5/3/2024,33,27,30,70.6,Partly cloudy throughout the day.
+5/4/2024,33.4,26,29.5,72,Clearing in the afternoon.
+5/5/2024,32.6,25,29.2,71,Partly cloudy throughout the day.
+5/6/2024,32.9,27,29.9,71.9,Partly cloudy throughout the day.
+5/7/2024,33,28,30.2,75,Partly cloudy throughout the day.
+5/8/2024,34.1,27,30.3,69.3,Partly cloudy throughout the day.
+5/9/2024,33.6,26,29.8,70.4,Partly cloudy throughout the day.
+5/10/2024,33,26,29.9,71.1,Clearing in the afternoon.
+5/11/2024,34.1,27.9,30.4,68,Partly cloudy throughout the day.
+5/12/2024,33.7,25.6,28.8,71.7,Partly cloudy throughout the day.
+5/13/2024,33,23,27.7,76,Partly cloudy throughout the day with early morning rain.
+5/14/2024,32.8,26,28.8,75.9,Partly cloudy throughout the day.
+5/15/2024,33.4,25,29.2,74.2,Partly cloudy throughout the day with early morning rain.
+5/16/2024,33,26,28.9,74.5,Partly cloudy throughout the day with late afternoon rain.
+5/17/2024,32.7,25,28.5,76.7,Partly cloudy throughout the day with late afternoon rain.
+5/18/2024,31.5,25,28.2,79.4,Partly cloudy throughout the day with morning rain.
+5/19/2024,31.5,25,27.8,81.9,Partly cloudy throughout the day with early morning rain.
+5/20/2024,29.5,25,26.8,89.8,Partly cloudy throughout the day with rain.
+5/21/2024,31.7,25,26.9,91.5,Partly cloudy throughout the day with afternoon rain.
+5/22/2024,32,25,27.8,91.3,Partly cloudy throughout the day with rain.
+5/23/2024,30.3,26,27.7,90.5,Cloudy skies throughout the day with rain in the morning and afternoon.
+5/24/2024,30,24,26.5,91.4,Cloudy skies throughout the day with rain.
+5/25/2024,27.9,23,25.3,95.4,Cloudy skies throughout the day with early morning rain.
+5/26/2024,31,25,27.6,89.1,Partly cloudy throughout the day with afternoon rain.
+5/27/2024,31.5,26,28.9,83.6,Partly cloudy throughout the day.
+5/28/2024,31,27,27.9,87.9,Partly cloudy throughout the day with afternoon rain.
+5/29/2024,29.9,26,27.3,92.6,Partly cloudy throughout the day with rain clearing later.
+5/30/2024,32.1,25,27.7,86.5,Partly cloudy throughout the day with rain.
+5/31/2024,32.1,26,28.9,84.6,Partly cloudy throughout the day.
+6/1/2024,33.1,28,29.9,80.2,Partly cloudy throughout the day.
+6/2/2024,32,26,28.8,84,Partly cloudy throughout the day with rain.
+6/3/2024,31.4,24,26.9,88.6,Partly cloudy throughout the day with afternoon rain.
+6/4/2024,30.5,24,27.1,85.7,Partly cloudy throughout the day with late afternoon rain.
+6/5/2024,31,26,27.6,89.2,Partly cloudy throughout the day with late afternoon rain.
+6/6/2024,30.5,25,27.3,90.3,Partly cloudy throughout the day with rain.
+6/7/2024,27.4,24,25.8,94.1,Cloudy skies throughout the day with rain.
+6/8/2024,27.4,24,24.6,97.6,Partly cloudy throughout the day with rain in the morning and afternoon.
+6/9/2024,28,23,24.2,97.6,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/10/2024,26.4,23,24.2,97.6,Cloudy skies throughout the day with rain.
+6/11/2024,28.7,23,25,94.6,Cloudy skies throughout the day with rain.
+6/12/2024,28,23,24.6,94.5,Cloudy skies throughout the day with rain in the morning and afternoon.
+6/13/2024,28.5,23,25.7,91.8,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/14/2024,30.6,24,27.3,87.1,Partly cloudy throughout the day.
+6/15/2024,31.5,25,27.2,85,Partly cloudy throughout the day with late afternoon rain.
+6/16/2024,29.4,24,26.6,87,Partly cloudy throughout the day.
+6/17/2024,30,25,27.3,86.2,Partly cloudy throughout the day with late afternoon rain.
+6/18/2024,29,23,26.3,89,Partly cloudy throughout the day with rain.
+6/19/2024,30,24.5,27,88.7,Partly cloudy throughout the day with morning rain.
+6/20/2024,27.9,24,25.6,89.9,Cloudy skies throughout the day with rain.
+6/21/2024,29.1,22,25.3,90.6,Cloudy skies throughout the day with rain.
+6/22/2024,28,23,25.1,91.2,Cloudy skies throughout the day with rain clearing later.
+6/23/2024,29,23,25.5,92.7,Partly cloudy throughout the day with rain.
+6/24/2024,29.5,23,25.7,91.5,Cloudy skies throughout the day with rain.
+6/25/2024,29.6,23,25.1,93.7,Partly cloudy throughout the day with rain.
+6/26/2024,28,23,24.7,95.8,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/27/2024,27.4,24,24.4,97.6,Cloudy skies throughout the day with a chance of rain throughout the day.
+6/28/2024,30,24,26.6,92.5,Partly cloudy throughout the day with a chance of rain throughout the day.
+6/29/2024,29.9,24.5,26.4,92.9,Partly cloudy throughout the day with rain.
+6/30/2024,28.5,24,25.4,97.1,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/1/2024,28,24,25.8,95.5,Cloudy skies throughout the day with rain.
+7/2/2024,28.4,24,26.4,93.9,Cloudy skies throughout the day with rain clearing later.
+7/3/2024,29.3,24,26.3,93.5,Cloudy skies throughout the day with rain.
+7/4/2024,27.5,22,23.9,96.9,Cloudy skies throughout the day with rain.
+7/5/2024,28.9,24,25.1,94.4,Cloudy skies throughout the day with rain.
+7/6/2024,25.1,22,24,98.7,Cloudy skies throughout the day with rain.
+7/7/2024,27.2,23,24.1,96.3,Cloudy skies throughout the day with rain.
+7/8/2024,27.2,22,23.6,95.4,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/9/2024,28.3,22,24,94.3,Cloudy skies throughout the day with rain.
+7/10/2024,28.6,22,25.3,90,Partly cloudy throughout the day with morning rain.
+7/11/2024,29,24,26,90.6,Partly cloudy throughout the day with rain.
+7/12/2024,27.3,24,25.4,95.2,Cloudy skies throughout the day with rain.
+7/13/2024,27.1,23,25,96.9,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/14/2024,27,24,25.3,96.3,Cloudy skies throughout the day with rain.
+7/15/2024,26.6,24,24.7,96,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/16/2024,27.1,24,25.4,96,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/17/2024,27.9,24,25.8,95.3,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/18/2024,25.7,23,24.4,97.7,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/19/2024,25,23,24.1,98,Cloudy skies throughout the day with rain.
+7/20/2024,28.4,23,26.2,92.4,Cloudy skies throughout the day with afternoon rain.
+7/21/2024,27,24,25.3,96.1,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/22/2024,29.1,24,25.7,93.1,Partly cloudy throughout the day with afternoon rain.
+7/23/2024,27.5,23,25,95.4,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/24/2024,28.4,23,25.7,94.1,Cloudy skies throughout the day with rain.
+7/25/2024,28,24,25.7,94.8,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/26/2024,28.3,23,25.7,95.9,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/27/2024,29.1,24,26.4,91.7,Cloudy skies throughout the day with rain.
+7/28/2024,29,26,27.5,87.8,Partly cloudy throughout the day with morning rain.
+7/29/2024,29,24,26.8,90.8,Cloudy skies throughout the day with rain.
+7/30/2024,26.5,23,24.9,96.8,Cloudy skies throughout the day with a chance of rain throughout the day.
+7/31/2024,27.1,23,24.6,96.9,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/1/2024,26.2,23,24.4,97.1,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/2/2024,27,23,24.5,96,Cloudy skies throughout the day with rain clearing later.
+8/3/2024,26.4,23,24.1,95.6,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/4/2024,27.7,23,24.3,96,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/5/2024,29.3,23,25.7,90.2,Partly cloudy throughout the day with rain.
+8/6/2024,26.8,24,24.3,97,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/7/2024,27,24,25.2,92.4,Cloudy skies throughout the day with rain clearing later.
+8/8/2024,26.7,23,24.5,94.4,Cloudy skies throughout the day with rain.
+8/9/2024,29,23,25.5,90.3,Partly cloudy throughout the day with rain clearing later.
+8/10/2024,29.4,23,26.3,87.6,Partly cloudy throughout the day with early morning rain.
+8/11/2024,29.3,24,26.7,87,Partly cloudy throughout the day with rain clearing later.
+8/12/2024,30,25,27.3,85.3,Partly cloudy throughout the day with afternoon rain.
+8/13/2024,31.1,26,27.9,83.3,Partly cloudy throughout the day with late afternoon rain.
+8/14/2024,31.5,26,27.8,87.3,Partly cloudy throughout the day with rain.
+8/15/2024,29,25,26.5,91.6,Cloudy skies throughout the day with early morning rain.
+8/16/2024,29,26,27,91.6,Cloudy skies throughout the day with afternoon rain.
+8/17/2024,30.7,25,26.1,91,Cloudy skies throughout the day with late afternoon rain.
+8/18/2024,29.5,24,26.3,90.2,Cloudy skies throughout the day with afternoon rain.
+8/19/2024,30,25,26.9,89,Partly cloudy throughout the day with late afternoon rain.
+8/20/2024,30,25,27,88,Partly cloudy throughout the day with late afternoon rain.
+8/21/2024,30,25,26.9,88.9,Partly cloudy throughout the day with late afternoon rain.
+8/22/2024,28.5,24,25.9,90.6,Partly cloudy throughout the day with rain clearing later.
+8/23/2024,29.7,24,26.5,87.4,Partly cloudy throughout the day with late afternoon rain.
+8/24/2024,29,24,25.8,91.8,Partly cloudy throughout the day with rain.
+8/25/2024,28.4,24,26.1,91.1,Cloudy skies throughout the day with rain.
+8/26/2024,27.9,24,25.8,91.2,Partly cloudy throughout the day with rain.
+8/27/2024,29,23,25.9,91.6,Partly cloudy throughout the day with rain.
+8/28/2024,28,24,25.6,92.8,Partly cloudy throughout the day with rain.
+8/29/2024,28,23,25.2,95,Cloudy skies throughout the day with a chance of rain throughout the day.
+8/30/2024,29,24,26,93.4,Partly cloudy throughout the day with afternoon rain.
+8/31/2024,27,24,25.1,91.3,Cloudy skies throughout the day with a chance of rain throughout the day.
+9/1/2024,28,23,25.7,88.4,Cloudy skies throughout the day with rain clearing later.
+9/2/2024,28,25,26.3,88.8,Cloudy skies throughout the day with a chance of rain throughout the day.
+9/3/2024,28.8,24,26.4,86.1,Partly cloudy throughout the day with rain.
+9/4/2024,29,25,26.7,85.4,Partly cloudy throughout the day with rain.
+9/5/2024,28.4,25,26.4,87.6,Partly cloudy throughout the day with rain.
+9/6/2024,28.1,24,25.9,87.6,Partly cloudy throughout the day with rain.
+9/7/2024,28,25,26.2,87.7,Partly cloudy throughout the day with rain.
+9/8/2024,28,24,25.7,90.4,Partly cloudy throughout the day with rain.
+9/9/2024,28.1,24,25.5,91.1,Cloudy skies throughout the day with rain.
+9/10/2024,29.7,24,26.3,86.9,Partly cloudy throughout the day with rain clearing later.
+9/11/2024,29.1,24,25.8,88,Partly cloudy throughout the day with rain.
+9/12/2024,30.1,23,25.6,87.3,Partly cloudy throughout the day with rain.
+9/13/2024,30.1,23,25.8,84.3,Partly cloudy throughout the day with late afternoon rain.
+9/14/2024,29,23,25.8,82.4,Partly cloudy throughout the day with rain.
+9/15/2024,30,24,26.7,79.8,Partly cloudy throughout the day.
+9/16/2024,30.4,24,26.5,81.7,Partly cloudy throughout the day with rain.
+9/17/2024,29.6,23,26.4,81.4,Partly cloudy throughout the day with early morning rain.
+9/18/2024,30.5,23,26.5,78.4,Partly cloudy throughout the day.
+9/19/2024,30.4,24.5,27,77.5,Partly cloudy throughout the day.
+9/20/2024,31,23,26.6,75.7,Partly cloudy throughout the day with late afternoon rain.
+9/21/2024,29.5,24,26.1,82,Partly cloudy throughout the day with early morning rain.
+9/22/2024,29.1,23,26.4,80.7,Partly cloudy throughout the day with rain.
+9/23/2024,28.1,23,25,89.4,Cloudy skies throughout the day with rain.
+9/24/2024,26,24,24.6,93.3,Cloudy skies throughout the day with rain.
+9/25/2024,27.4,24,25.2,90.8,Cloudy skies throughout the day with rain.
+9/26/2024,29.1,24,25.6,89.1,Partly cloudy throughout the day with rain in the morning and afternoon.
+9/27/2024,29,23,25.3,88,Partly cloudy throughout the day with rain clearing later.
+9/28/2024,31,23,26.7,79.8,Partly cloudy throughout the day.
+9/29/2024,31.1,25,27.1,79.4,Partly cloudy throughout the day with early morning rain.
+9/30/2024,31,24,27.1,84.8,Partly cloudy throughout the day with rain.
+10/1/2024,31.1,24,26.8,84.8,Partly cloudy throughout the day with late afternoon rain.
+10/2/2024,32,24,27.6,80.4,Partly cloudy throughout the day.
+10/3/2024,31,26,27.9,81.4,Partly cloudy throughout the day.
+10/4/2024,31.8,25,27.7,82,Partly cloudy throughout the day.
+10/5/2024,31,25,26.8,85.2,Partly cloudy throughout the day.
+10/6/2024,30,23.5,26.1,84.5,Partly cloudy throughout the day with rain.
+10/7/2024,31,23,26.2,83.3,Partly cloudy throughout the day with afternoon rain.
+10/8/2024,30.3,24,26.7,80.9,Partly cloudy throughout the day.
+10/9/2024,30.5,24,26.6,81.8,Partly cloudy throughout the day with early morning rain.
+10/10/2024,29,24,25.5,85.3,Partly cloudy throughout the day with afternoon rain.
+10/11/2024,29.4,23,26.1,83.2,Partly cloudy throughout the day.
+10/12/2024,27,24,24.8,90.8,Partly cloudy throughout the day with a chance of rain throughout the day.
+10/13/2024,30,23,25.9,84,Partly cloudy throughout the day with a chance of rain throughout the day.
+10/14/2024,30,24,26.1,87.1,Partly cloudy throughout the day with a chance of rain throughout the day.
+10/15/2024,27,24,24.6,93,Cloudy skies throughout the day with a chance of rain throughout the day.
+10/16/2024,29,23,24,90.5,Partly cloudy throughout the day with rain.
